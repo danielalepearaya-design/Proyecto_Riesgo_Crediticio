@@ -20,6 +20,14 @@ Contiene el desarrollo del Producto Mínimo Viable del sistema de evaluación y 
 crediticio mediante R, incluyendo el código desarrollado, la base de datos utilizada y los archivos necesarios 
 para la reproducibilidad del proyecto.
 
+### Entrega 03 - Proyecto Final
+
+Contiene la versión final e integrada del proyecto, incorporando la descripción y planificación de la solución, el Producto Mínimo Viable (MVP), 
+la documentación del proceso, limpieza y transformación de datos, evaluación del modelo, Model Card, propuesta de despliegue y monitoreo.
+
+Además, incluye el informe final, código desarrollado en R, base de datos utilizada, visualizaciones de resultados y los archivos necesarios para la
+reproducibilidad del proyecto.
+
 ## Fuente de datos
 
 Para el desarrollo del proyecto se utiliza la base de datos **Give Me Some Credit**, trabajando principalmente
