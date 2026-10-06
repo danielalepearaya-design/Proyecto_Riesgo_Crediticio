@@ -44,3 +44,10 @@ con el archivo `cs-training.csv`.
 **Curso:** Finanzas en R  
 **Profesor:** Sebastián Egaña  
 **2026**
+
+## Uso de IA
+
+Durante el desarrollo del proyecto se utilizó Inteligencia Artificial como herramienta complementaria de apoyo, principalmente para resolver dudas,
+revisar aspectos de redacción y código, y apoyar la comprensión de algunos conceptos.
+
+El desarrollo del proyecto, la ejecución del código, el análisis de los resultados y las decisiones adoptadas fueron realizados por la autora.
